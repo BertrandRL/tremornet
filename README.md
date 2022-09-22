@@ -2,3 +2,5 @@ This is a notebook showing the use of the tremor deep learning model, as publish
 and Hulbert et al. 2022 https://doi.org/10.1109/TGRS.2022.3156125
 
 The model is a classifier of tectonic tremor versus noise versus earthquakes.
+
+Download database: https://www.dropbox.com/sh/3hc9pc6nwqgp3qt/AADfQKCCogpk_Sfq6yEapi6ya?dl=0
